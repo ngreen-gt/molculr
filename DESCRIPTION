@@ -1,0 +1,13 @@
+Package: molculr
+Type: Package
+Title: Molecular characterization via untargeted mass spectrometry
+Version: 0.0.0.9000
+Author: Nelson W. Green
+Maintainer: Nelson Green <nelson.green at gmail.com>
+Description: This package builds around an optimized C++ algorithm for
+    calculating molecular formulae using moiety-based method.  Peak annotation jj jjj j
+    is non-deterministic, therefore, a heuristic algorithm has proposed for
+    this task.  In development, are more advanced visualization, models and
+    tools for working with multiple spectra.
+License: GPL-3
+LazyData: TRUE
